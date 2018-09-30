@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc5d4a8a-796a-4c51-9a18-e6b64c78715b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/BarreDefilement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/BarreDefilementLinux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/BarreDefilementMacOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/BarreDefilementWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/Bouton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/BoutonLinux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/BoutonMacOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/BoutonWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/FabriqueComposant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/FabriqueComposantLinux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/FabriqueComposantMacOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/FabriqueComposantWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/MenuLinux.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/MenuMacOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/MenuWindows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceGraphiques/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfaceGraphiques/Interface.java" afterDir="false" />
-    </list>
+    <list default="true" id="fc5d4a8a-796a-4c51-9a18-e6b64c78715b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InterfaceGraphiques/Interface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -194,7 +175,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538321535821" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538321600819" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -215,7 +196,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="RegisterWindows.RegisterTest" />
+      <option name="MAIN_CLASS_NAME" value="InterfaceGraphiques.Interface" />
       <module name="acd4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -233,18 +214,18 @@
       <option name="presentableId" value="Default" />
       <updated>1537905497685</updated>
       <workItem from="1537905499083" duration="2580000" />
-      <workItem from="1538308536725" duration="6623000" />
+      <workItem from="1538308536725" duration="6688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9203000" />
+    <option name="totallyTimeSpent" value="9268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -253,7 +234,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/InterfacesGraphiques/Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InterfaceGraphiques/Bouton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -572,10 +546,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/InterfacesGraphiques/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/InterfaceGraphiques/Interface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
