@@ -10,5 +10,9 @@ public class RegisterTest {
         String nom1=instance1.getNom();
         System.out.println(nom1);
 
+        RegisterWindows instance2=RegisterWindows.getInstance();
+        String nom2=instance2.getNom();
+        System.out.println(nom2);
+
     }
 }
