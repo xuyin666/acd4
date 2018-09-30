@@ -1,3 +1,7 @@
+package Connexion;
+
+import Connexion.Connexion;
+
 import java.util.ArrayList;
 import java.util.List;
 

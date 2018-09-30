@@ -1,3 +1,7 @@
+package Connexion;
+
+import Connexion.Connexion;
+
 public class Utilisateur {
     public static void main(String[] args){
         SGBD sgbd;

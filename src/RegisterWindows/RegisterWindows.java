@@ -1,3 +1,5 @@
+package RegisterWindows;
+
 public class RegisterWindows {
 
     protected static String nom="I'm Unique";

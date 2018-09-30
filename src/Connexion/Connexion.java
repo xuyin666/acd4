@@ -1,3 +1,5 @@
+package Connexion;
+
 public abstract class Connexion  {
     protected String utilisateur;
     protected String motdepass;
