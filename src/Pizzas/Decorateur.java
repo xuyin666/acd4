@@ -8,7 +8,7 @@ public abstract class Decorateur extends Pizza {
     }
 
     public String afficheDescription(){
-        return pizza.afficheDescrption()+descrption+calculePrix();
+        return pizza.afficheDescription()+descrption+calculePrix();
     }
 
     public double calculePrix(){
