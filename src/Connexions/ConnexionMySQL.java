@@ -1,6 +1,6 @@
-package Connexion;
+package Connexions;
 
-import Connexion.Connexion;
+import Connexions.Connexion;
 
 public class ConnexionMySQL extends Connexion {
     public ConnexionMySQL(String util,String mdp){

@@ -1,6 +1,8 @@
-package Connexion;
+package Connexions;
 
-import Connexion.Connexion;
+import Connexions.Connexion;
+import Connexions.ConnexionMySQL;
+import Connexions.SGBD;
 
 public class SGBDMySQL extends SGBD {
     @Override

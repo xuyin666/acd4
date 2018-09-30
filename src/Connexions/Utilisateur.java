@@ -1,6 +1,9 @@
-package Connexion;
+package Connexions;
 
-import Connexion.Connexion;
+import Connexions.Connexion;
+import Connexions.SGBD;
+import Connexions.SGBDMySQL;
+import Connexions.SGBDOracle;
 
 public class Utilisateur {
     public static void main(String[] args){

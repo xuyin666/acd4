@@ -1,6 +1,6 @@
 package Pizzas;
 
-public abstract class Pizza {
+public class Pizza {
 
     protected String descrption="";
     protected double cout;
@@ -10,6 +10,6 @@ public abstract class Pizza {
     }
 
     public double calculePrix(){
-         return cout;
+        return cout;
     }
 }

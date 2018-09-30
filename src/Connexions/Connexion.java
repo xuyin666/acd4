@@ -1,4 +1,4 @@
-package Connexion;
+package Connexions;
 
 public abstract class Connexion  {
     protected String utilisateur;

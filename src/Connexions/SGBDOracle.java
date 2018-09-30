@@ -1,6 +1,8 @@
-package Connexion;
+package Connexions;
 
-import Connexion.Connexion;
+import Connexions.Connexion;
+import Connexions.ConnexionOracle;
+import Connexions.SGBD;
 
 public class SGBDOracle extends SGBD {
     @Override

@@ -1,7 +1,5 @@
 package InterfaceGraphiques;
 
-import java.awt.*;
-
 public class Interface {
     public static void main(String[] args){
         FabriqueComposant fabrique=new FabriqueComposantMacOS();

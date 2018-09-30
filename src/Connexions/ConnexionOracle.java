@@ -1,6 +1,6 @@
-package Connexion;
+package Connexions;
 
-import Connexion.Connexion;
+import Connexions.Connexion;
 
 public class ConnexionOracle extends Connexion {
     public ConnexionOracle(String util,String mdp){

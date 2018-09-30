@@ -7,4 +7,5 @@ public class PizzaClassique extends Pizza{
         this.cout=2.5;
     }
 
+
 }
